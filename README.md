@@ -66,6 +66,7 @@ app/
 │   └── 02_Charging_Station.py
 docs/
 │   ├── ev_cars.csv
+|   ├── charger_info.csv
 │   └── EV_charging_station_info.csv   
 ├── requirements.txt
 └── README.md
