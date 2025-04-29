@@ -44,7 +44,7 @@
 | 분류 | 기술 스택 |
 |------|-----------|
 | Language | Python |
-| Framework/Library | Streamlit, Pandas, Plotly, Folium, BeautifulSoup |
+| Framework/Library | Streamlit, Pandas, Plotly, Folium |
 | DB | MySQL |
 | 협업 도구 | Git, GitHub, Discord |
 
