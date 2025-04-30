@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 
 ### 🔗 ERD 다이어그램
-![img_2.png](./docs/img_2.png)
+![img_2.png](./docs/ERD.png)
 
 ### 📋 테이블 명세서
 
