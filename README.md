@@ -81,7 +81,7 @@ docs/
 ```
 ## 🗂️ 프로젝트 실행
 ```
-streamlit run ./app/home/py
+streamlit run ./app/home.py
 ```
 
 ## 🗂️ 라이브러리 설치
