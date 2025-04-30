@@ -61,16 +61,16 @@
 
 ```
 app/
-├── home.py
-│── charging_station_count.py
-│── config.py
-│── create_db_and_grant.py
-│── db_utils.py
-│── kakao_api.py
-├── .env
-├── pages/
-│   ├── 01_EV_Status.py
-│   └── 02_Charging_Station.py
+| ├── home.py
+| │── charging_station_count.py
+| │── config.py
+| │── create_db_and_grant.py
+| │── db_utils.py
+| │── kakao_api.py
+| ├── .env
+| ├── pages/
+│         ├── 01_EV_Status.py
+│         └── 02_Charging_Station.py
 docs/
 │   ├── ev_cars.csv
 |   ├── charger_info.csv
